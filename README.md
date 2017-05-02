@@ -1,0 +1,2 @@
+# NCEA-level-3-internal-2016
+Last year during my level 3 Computer Science class, I did not do a great job on my Python internal. This reason being I had several other internals due at the same time, and I didn't prioritise Computer Science, when I now wish I had. In the end, I only got my internal to the "achieved" standard. So over the next few weeks, I will be working on this program within my spare time, getting it to the equivalent "excellence" standards I wish I had obtained last year. 
